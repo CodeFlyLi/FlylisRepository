@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "MyCourses",
+      "pageSourceFile": "src/main/ets/components/service/MyCourses.ets",
+      "buildFunction": "MyCoursesBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    }
+  ]
+}
